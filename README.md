@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- High experience with GML and GZDoom
+- Programmer for Ednaldo Pereira Mescladasso DX and ARTIUS
+- Always trying to improve my skills ✨
+
 <!--
 **John-Kun/John-Kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
